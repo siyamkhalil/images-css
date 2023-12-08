@@ -1,0 +1,34 @@
+/* SIZE OF IMAGE */
+/* img{
+    width: 250px;
+    height: 250px;
+} */
+
+
+    /* ALIGNING IMAGES */
+/* img{
+    float: right;
+} */
+
+    /* CENTERING IMAGES */
+/* img{
+    margin: auto;
+    display: block;
+} */
+
+    /* BACKGROUND IMAGES */
+/* body{
+    background-image: url(./images/pexels-zeeshaan-shabbir-15268068.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 220vh;
+} */
+
+    /* GRADIENTS */
+
+    body{
+        background-image: linear-gradient(to right, red , yellow , blue, orange, green);
+        /* border: 2px solid red; */
+        height: 100vh;
+        /* width: 1200px; */
+    }
